@@ -5,7 +5,7 @@ Crash your app on demand. Created for crash testing.
 ## Installation
 
 ```bash
-$ cordova plugin add ionic-cordova-app-crash
+$ cordova plugin add https://github.com/rahulkmurali/ionic-cordova-app-crash.git
 ```
 
 ## Usage
