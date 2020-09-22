@@ -1,0 +1,30 @@
+{
+  "name": "ionic-cordova-app-crash",
+  "version": "0.0.1",
+  "description": "A simple enough plugin to crash the app on demand",
+  "cordova": {
+    "id": "ionic-cordova-app-crash",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkmurali/ionic-cordova-app-crash.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "crash",
+    "ionic",
+    "crashlytics"
+  ],
+  "bugs": {
+    "url": "https://github.com/rahulkmurali/ionic-cordova-app-crash/issues"
+  },
+  "homepage": "https://github.com/rahulkmurali/ionic-cordova-app-crash#readme",
+  "author": "Rahul K Murali<rahulkmurali@gmail.com>",
+  "license": "MIT"
+}
